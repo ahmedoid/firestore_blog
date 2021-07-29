@@ -1,0 +1,13 @@
+{
+"home" : "Home",
+"createNote" : "Create Note",
+"note" : "Note",
+"noteIsShort" : "Note is to short",
+"noteTitle" : "Note Title",
+"description" : "Description",
+"writeDescription" : "Write Note Description",
+"update" : "Update Note",
+"create" : "Create Note",
+"appTitle" : "Firebase CRUD",
+"empty" : "No Note Found"
+}
